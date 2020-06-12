@@ -1,1 +1,2 @@
-bob 
+The first user is Bob.
+The second user is Jim. 
